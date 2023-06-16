@@ -10,8 +10,8 @@ required_version = ">=1.0.7"
 }
 provider "aws" {
 region = "ap-southeast-1"
-access_key = "AKIASS6VNYT4ORJNNGER"
-secret_key = "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"
+access_key = "AKIASS6VNYT4BSISMGPF"
+secret_key = "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"
         
 }
 
